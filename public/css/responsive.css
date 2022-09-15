@@ -19,7 +19,7 @@
         margin: 200px -29px 0px -130px;
     }
     .about {
-        padding: 251px 0 0px 0;
+        padding: 10px 0 0px 0;
     }
     .about_img {
         margin-left: 0;
@@ -28,8 +28,8 @@
 
 @media (min-width: 768px) and (max-width: 991px) {
     
-    .navigation.navbar {
-    padding-top: 21px !important;}
+    /* .navigation.navbar {
+    padding-top: 21px !important;} */
     .navigation.navbar-dark .navbar-nav .nav-link {
         padding: 0px 7px;
     }

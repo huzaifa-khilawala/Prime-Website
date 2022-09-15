@@ -257,21 +257,29 @@ button {
 
 .navigation.navbar-dark .navbar-nav .nav-link {
      padding: 0px 27px;
-     color: #55236d;
+     color: #7c4a94;
      font-size: 17px;
      line-height: 20px;
 }
 
+.hamburgericon{
+     color: #57236f;
+}
+
+.centervertically{
+     padding: auto 0;
+}
+
 .navigation.navbar-dark .navbar-nav .nav-link:focus,
 .navigation.navbar-dark .navbar-nav .nav-link:hover {
-     color: #fff;
+     color: #57236f;
 }
 
 .navigation.navbar-dark .navbar-nav .active>.nav-link,
 .navigation.navbar-dark .navbar-nav .nav-link.active,
 .navigation.navbar-dark .navbar-nav .nav-link.show,
 .navigation.navbar-dark .navbar-nav .show>.nav-link {
-     color: #fff;
+     color: #270337;
 }
 
 .navbar-expand-md .navbar-nav {
@@ -280,14 +288,17 @@ button {
 
 .header {
      width: 100%;
-     padding: 15px 30px 0px 30px;
+     padding: 0px 10px 0px 10px;
      position: absolute;
      z-index: 999;
+     background-color: white;
+     position: sticky;
 }
 
-.nav-row{
-     background-color: white;
+.headerchild{
+     min-width: 100%;
 }
+
 
 /** banner section **/
 
@@ -305,7 +316,7 @@ button {
      position: relative;
      background: url(../images/banner_img.png);
      background-repeat: no-repeat;
-     min-height: 914px;
+     min-height: 714px;
      display: flex;
      justify-content: center;
      align-content: center;
@@ -414,7 +425,7 @@ button {
 
 .about {
      background: #fff;
-     padding: 151px 0 0px 0;
+     padding: 10px 0 0px 0;
 }
 
 .about .titlepage {
