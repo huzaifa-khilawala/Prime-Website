@@ -735,7 +735,7 @@ ul.social_icon li a {
 }
 
 ul.social_icon li a:hover {
-     background-color: #f4cb1e;
+     background-color: #24cbe5;
      color: #fff;
 }
 
@@ -769,7 +769,7 @@ ul.location_icon li a {
 }
 
 ul.location_icon li a:hover {
-     color: #e5a124;
+     color: #24cbe5;
 }
 
 .footer h3 {
@@ -782,7 +782,7 @@ ul.location_icon li a:hover {
 .copyright {
      margin-top: 30px;
      padding: 20px 0px;
-     background-color: #f4cb1e;
+     background-color: #24cbe5;
 }
 
 .copyright p {
@@ -804,8 +804,6 @@ ul.location_icon li a:hover {
 /** end footer **/
 
 .inner_page .header {
-     background-color: #e7a601;
-     padding-bottom: 15px !important;
      position: inherit;
 }
 
