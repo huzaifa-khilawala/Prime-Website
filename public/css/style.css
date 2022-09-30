@@ -385,7 +385,7 @@ button {
      padding-bottom: 60px;
 }
 
-.titlepage h1 {
+.titlepage h2 {
      font-size: 40px;
      color: #090807;
      line-height: 52px;
@@ -434,7 +434,7 @@ button {
      margin-left: -50px;
 }
 
-.about .titlepage h1 {
+.about .titlepage h2 {
      color: #000;
 }
 
@@ -475,7 +475,7 @@ button {
      text-align: center;
 }
 
-.juices .titlepage h1 {
+.juices .titlepage h2 {
      color: #000000;
 }
 
@@ -643,7 +643,7 @@ button {
      padding-bottom: 0px;
 }
 
-.footer .titlepage h1 {
+.footer .titlepage h2 {
      color: #fff;
 }
 
